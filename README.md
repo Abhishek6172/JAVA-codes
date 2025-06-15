@@ -24,6 +24,7 @@ A collection of Java programs for learning, experimenting, and solving problems.
 
 ## 📦 How to Run
 
+```bash
 1. **Clone the repository**
 
 git clone https://github.com/Abhishek6172/JAVA-codes.git
