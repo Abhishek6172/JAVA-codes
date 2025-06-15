@@ -26,14 +26,13 @@ A collection of Java programs for learning, experimenting, and solving problems.
 
 1. **Clone the repository**
 
-```bash
 git clone https://github.com/Abhishek6172/JAVA-codes.git
 cd JAVA-codes
 
-Compile a file
+2. **Compile a file**
 javac filename.java
 
-Run the program
+3. **Run the program**
 java filename
 
 
